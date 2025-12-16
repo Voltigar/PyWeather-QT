@@ -1,6 +1,6 @@
 # 🌤️ PyWeather-QT
 
-**A simple and elegant weather application built with Python and PyQt6**
+**A simple weather application built with Python and PyQt6 using the openweathermap API**
 
 </div>
 
@@ -69,5 +69,6 @@ Contributions, issues, and feature requests are welcome, feel free to check the 
 
 *a project by Voltigar*
 </div>
+
 
 
